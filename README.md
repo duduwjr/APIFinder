@@ -12,4 +12,4 @@ APIFinder [-h] [-u URL1] [-U URL2] [-i RES]
 
 最终会输出一个result.txt文件，用来存放从目标url提取出来、并拼接上指定url的地址。
 
-![image-20240131101801277](C:\Users\lenovo\AppData\Roaming\Typora\typora-user-images\image-20240131101801277.png)
+![image-20240131101801277](https://github.com/duduwjr/APIFinder/blob/main/img/image-20240131101801277.png)
